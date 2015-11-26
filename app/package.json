@@ -6,7 +6,7 @@
   "description": "An item tracker for The Binding of Isaac: Afterbirth.",
   "window": {
     "icon": "favicon.ico",
-    "frame": false,
+    "frame": true,
     "toolbar": false,
     "show": true,
     "position": "center",
